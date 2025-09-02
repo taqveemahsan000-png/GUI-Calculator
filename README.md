@@ -1,1 +1,1 @@
-# GUI-Calculator
+🧮 Python GUI Calculator — A simple and interactive calculator built with Python’s Tkinter library. It supports basic arithmetic operations, square root calculations, and trigonometric functions, all within a clean graphical interface.# GUI-Calculator
